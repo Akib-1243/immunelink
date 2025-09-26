@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "632487818997",
+    "project_id": "signin-78445",
+    "storage_bucket": "signin-78445.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632487818997:android:a47ec4af12ee830240f7bc",
+        "android_client_info": {
+          "package_name": "com.example.immunelink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf4GF1LPps1rR1qmNhgL1QeHviAarvVaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
