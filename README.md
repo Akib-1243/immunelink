@@ -1,16 +1,58 @@
-# immunelink
+# Vaccination Management System
 
-a flutter project
+A cross-platform mobile application built with Flutter and Firebase to streamline the vaccination process for both citizens and administrators. This project was developed for the CSE2100 course at the Department of Computer Science and Engineering, Ahsanullah University of Science and Technology (AUST).
+
+## Project Demo
+
+[![Watch the video](https://youtu.be/wv6SpucK7RM?si=8YGEbUBCQBMetxWv)]
+
+**Watch our complete project presentation and demo on YouTube: [https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)**
+
+## About The Project
+
+The traditional vaccination process often suffers from long queues, mismanagement of vaccine stock, and unreliable paper-based records. This project aims to solve these issues by providing a centralized digital platform.
+
+Our system bridges the gap between vaccine supply and demand by digitizing appointment scheduling, application reviews, and record-keeping, making the entire process faster, more transparent, and easier to manage on a mobile device.
+
+## Key Features
+
+### For Citizens (Users):
+* **Secure Authentication:** Create an account and log in safely using Firebase Authentication.
+* **Online Registration:** Submit personal details securely to the Cloud Firestore database.
+* **Center Selection:** Choose a preferred vaccination center from a list of available options.
+* **Easy Application:** Submit a vaccination application directly from the app.
+* **Real-time Status Tracking:** Check the status of an application (Pending, Approved, Rejected) in real-time.
+
+### For Administrators:
+* **Admin Dashboard:** View and manage all incoming vaccination applications from a dedicated interface.
+* **Application Review:** Approve or reject applications based on eligibility and vaccine availability.
+* **Status Updates:** Instantly update a user's vaccination status after each dose is administered.
+* **Centralized Records:** Access a secure and organized database of all vaccination records on Cloud Firestore.
+
+## Built With
+
+* **Framework:** [Flutter](https://flutter.dev/)
+* **Programming Language:** [Dart](https://dart.dev/)
+* **Backend & Database:** [Firebase](https://firebase.google.com/)
+    * Cloud Firestore
+    * Firebase Authentication
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get a local copy up and running, follow these steps.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Flutter SDK installed on your machine. [Installation Guide](https://docs.flutter.dev/get-started/install)
+* An IDE such as Android Studio or VS Code with the Flutter plugin.
+* A configured emulator or a physical device to run the app.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Team Members
+
+* **[Akib]**
+* **Jannat**
+* **Sintheya**
+
+## Acknowledgments
+* This project was submitted for the **CSE2100** course.
+* Department of Computer Science and Engineering, **Ahsanullah University of Science and Technology (AUST)**.
