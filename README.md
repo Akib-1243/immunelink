@@ -4,7 +4,7 @@ A cross-platform mobile application built with Flutter and Firebase to streamlin
 
 ## Project Demo
 
-[![Watch the video](https://www.youtube.com/watch?v=wv6SpucK7RM)
+**Watch our complete project presentation and demo on YouTube: [https://youtu.be/wv6SpucK7RM](https://youtu.be/wv6SpucK7RM)**
 
 ## About The Project
 
