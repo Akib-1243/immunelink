@@ -47,9 +47,9 @@ To get a local copy up and running, follow these steps.
 
 ## Team Members
 
-* **[Akib]**
-* **Jannat**
-* **Sintheya**
+* **Md Akib**
+* **Meftahul Jannat**
+* **Tarannum Sintheya**
 
 ## Acknowledgments
 * This project was submitted for the **CSE2100** course.
