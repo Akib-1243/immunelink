@@ -6,8 +6,6 @@ A cross-platform mobile application built with Flutter and Firebase to streamlin
 
 [![Watch the video](https://youtu.be/wv6SpucK7RM?si=8YGEbUBCQBMetxWv)]
 
-**Watch our complete project presentation and demo on YouTube: [https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)**
-
 ## About The Project
 
 The traditional vaccination process often suffers from long queues, mismanagement of vaccine stock, and unreliable paper-based records. This project aims to solve these issues by providing a centralized digital platform.
